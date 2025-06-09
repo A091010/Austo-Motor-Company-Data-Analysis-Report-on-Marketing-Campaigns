@@ -1,1 +1,2 @@
 # Austo-Motor-Company-Data-Analysis-Report-on-Marketing-Campaigns
+The objective of this analysis was to enhance Austo Motor Company's marketing campaign by understanding customer purchase behavior and identifying key target segments. The analysis focused on exploring the relationships between customer demographics (Gender, Marital Status, Employment Type) and car purchase preferences (SUV, Sedan, Hatchback). 
